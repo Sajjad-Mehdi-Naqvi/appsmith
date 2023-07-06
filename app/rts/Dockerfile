@@ -1,4 +1,4 @@
-FROM node:16.19.1-bullseye-slim
+FROM node:gallium-bullseye-slim
 
 LABEL maintainer="tech@appsmith.com"
 
