@@ -95,7 +95,7 @@
         <dependency>
             <groupId>io.jsonwebtoken</groupId>
             <artifactId>jjwt-jackson</artifactId> <!-- or jjwt-gson if Gson is preferred -->
-            <version>0.11.2</version>
+            <version>0.12.0</version>
         </dependency>
 
         <!--
@@ -181,8 +181,7 @@
                         <configuration>
                             <minimizeJar>false</minimizeJar>
                             <transformers>
-                                <transformer
-                                        implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <manifestEntries>
                                         <Plugin-Id>${plugin.id}</Plugin-Id>
                                         <Plugin-Class>${plugin.class}</Plugin-Class>
