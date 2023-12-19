@@ -10,6 +10,6 @@
     "is-buffer": "1.1.6",
     "isarray": "1.0.0",
     "picomatch": "2.3.0",
-    "plop": "2.7.4"
+    "plop": "3.0.0"
   }
 }
