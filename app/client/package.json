@@ -154,7 +154,7 @@
     "shallowequal": "^1.1.0",
     "showdown": "^1.9.1",
     "smartlook-client": "^4.5.1",
-    "socket.io-client": "^4.5.1",
+    "socket.io-client": "^4.7.0",
     "styled-components": "^5.2.0",
     "tern": "^0.21.0",
     "tinycolor2": "^1.4.2",
