@@ -2733,13 +2733,12 @@
   dependencies:
     "@babel/runtime" "^7.12.5"
 
-"@tinymce/tinymce-react@^3.13.0":
-  version "3.13.0"
-  resolved "https://registry.npmjs.org/@tinymce/tinymce-react/-/tinymce-react-3.13.0.tgz"
-  integrity sha512-8+OHYIUP9W5D5z7gknausaG48ovQtEvjcK4c+zpha7QppRVVX0ltaINpo10V6Vb4qj9Jf7ZFfZpMRxxcFL2YvQ==
+"@tinymce/tinymce-react@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@tinymce/tinymce-react/-/tinymce-react-6.0.0.tgz#ca74d6e5190cc50f6c82684a1ad09e7507efc331"
+  integrity sha512-v5q6x3/kgg3rfQjFYrAm8ZVCnPbUgOuB3yUvSskp75VwR/EUQimONG4S16KL85kFbstiiat6AUDDLMXN4hRxhQ==
   dependencies:
     prop-types "^15.6.2"
-    tinymce "^5.5.1"
 
 "@tootallnate/once@1":
   version "1.1.2"
@@ -14771,11 +14770,6 @@ tiny-warning@^1.0.0, tiny-warning@^1.0.3:
 tinycolor2@^1.4.2:
   version "1.4.2"
   resolved "https://registry.npmjs.org/tinycolor2/-/tinycolor2-1.4.2.tgz"
-
-tinymce@^5.5.1:
-  version "5.10.2"
-  resolved "https://registry.npmjs.org/tinymce/-/tinymce-5.10.2.tgz"
-  integrity sha512-5QhnZ6c8F28fYucLLc00MM37fZoAZ4g7QCYzwIl38i5TwJR5xGqzOv6YMideyLM4tytCzLCRwJoQen2LI66p5A==
 
 title-case@^3.0.3:
   version "3.0.3"
